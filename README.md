@@ -58,3 +58,7 @@ c)	Bar graph to show the count of orders Vs. hours throughout the day. What are 
 d)	Plot the distribution of RFM values using histogram and frequency-charts.
 e)	Plot error(cost) vs no of clusters selected
 f)	 Visualize to compare the RFM values of the clusters using heatmap
+
+
+View the Tableau part of this project on Tableau Public at the following link:
+https://public.tableau.com/app/profile/gregory.a.birmingham/viz/Capstone_Project3_Retail/DashboardSalesAnalysis
